@@ -152,3 +152,7 @@ As a part of your end year networking project , you are required to design and i
 
 
 13) Configure port security to IT-department switch to allow only Test-PC to access port fa0/1 (use sticky method to obtain mac-address with violation mode of shutdown).
+
+
+
+Video Demonstration :- https://drive.google.com/file/d/1RMpZi1A9_qvYxdLjcVePKa3g5YbqKef9/view?usp=drivesdk
